@@ -16,7 +16,7 @@ we where attack by a chimera and killed
 
 at night we where attacked by a pack of dogs and fought them off
 
-we went to the [[locations/herb hut hex.\|herb hut hex.]] robin took [[items/nightwatch mushrooms.\|nightwatch mushrooms.]]. haggis hung up a stone mask in the hut to fuck with the inhabitant. we plugged up a small cave entrance 
+we went to the [[locations/herb hut hex.\|herb hut hex.]] robin took [[nightwatch mushrooms.\|nightwatch mushrooms.]]. haggis hung up a stone mask in the hut to fuck with the inhabitant. we plugged up a small cave entrance 
 
 we went to [[locations/lillypad hex\|lillypad hex]] where we encountered [[NPC/sir wednesday the frog\|sir wednesday the frog]]. he offered to grant our wishes. [[PC/corvo\|corvo]] wished for " my stone arm curse to be reversed and in the same healthy state as the rest of my body"
 [[PC/haggis\|haggis]] wished for the power to remove cursus.
