@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-15/","dgPassFrontmatter":true,"created":"2026-02-18T19:12:00.751+01:00","updated":"2026-02-19T13:56:48.000+01:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/session-notes/session-15/","dgPassFrontmatter":true,"created":"2026-02-18T19:12:00.751+01:00","updated":"2026-02-19T16:50:27.590+01:00"}
 ---
 
 we went back to [[NPC/knight orn\|knight orn]]. he went back to [[jumala.\|jumala.]] but wants to go home. [[PC/haggis\|haggis]] took a hair from him for his [[items/voodoo doll\|voodoo doll]]
