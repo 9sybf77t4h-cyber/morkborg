@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/session-notes/session-15/","dgPassFrontmatter":true,"created":"2026-02-18T19:12:00.751+01:00","updated":"2026-02-19T16:50:27.590+01:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/session-notes/session-15/","dgPassFrontmatter":true,"created":"2026-02-18T19:12:00.751+01:00","updated":"2026-03-04T19:11:03.273+01:00"}
 ---
 
-we went back to [[NPC/knight orn\|knight orn]]. he went back to [[jumala.\|jumala.]] but wants to go home. [[PC/haggis\|haggis]] took a hair from him for his [[items/voodoo doll\|voodoo doll]]
+we went back to [[NPC/knight orn\|knight orn]]. he went back to [[locations/jumala\|jumala]] but wants to go home. [[PC/haggis\|haggis]] took a hair from him for his [[items/voodoo doll\|voodoo doll]]
 
 we went to the [[locations/altar of ghylak hex\|altar of ghylak hex]], the hex was next to the wall.
 the first thing we notice there is another [[items/glass pilar\|glass pilar]] in the middel of the hex
@@ -12,7 +12,7 @@ there was a beheaded character with a head in its hands, speaking with the voice
 she told us we can look around the wall at the water hes to the southeast
 here was a beach and a way around the wall.
 
-we where attack by a chimera and killed
+we where attack by a chimera and killed it.
 
 at night we where attacked by a pack of dogs and fought them off
 
