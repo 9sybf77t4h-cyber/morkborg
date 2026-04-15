@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/session-notes/session-16/","dgPassFrontmatter":true,"created":"2026-02-19T16:18:18.035+01:00","updated":"2026-03-04T22:25:48.995+01:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/session-notes/session-16/","dgPassFrontmatter":true,"created":"2026-02-19T16:18:18.035+01:00","updated":"2026-04-15T19:04:12.412+02:00"}
 ---
 
 the party went back to jumala
 
-[[PC/sir robbin graves\|sir robbin graves]] visited polly's grave.
-at jumala items where ordered [[orders\|orders]]
+[[PC/sir robbin graves\|sir robbin graves]] visited polly's grave. at jumala items where we ordered [[orders\|orders]]
 [[NPC/umbir\|umbir]] saw flying goblins in an hex net to the wall
 [[PC/sir robbin graves\|sir robbin graves]] tagged umbir with the [[items/seal ring\|seal ring]]
 
