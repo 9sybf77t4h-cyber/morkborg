@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/session-notes/session-19/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2026-05-27T19:06:34.086+02:00","updated":"2026-05-27T21:55:47.954+02:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/session-notes/session-19/","dgPassFrontmatter":true,"created":"2026-05-27T19:06:34.086+02:00","updated":"2026-05-27T22:19:19.572+02:00"}
 ---
 
 the battle continues. corvo gets shot with an arrow and the living armor breaks and is reduced to light armor. 
